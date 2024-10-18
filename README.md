@@ -21,11 +21,7 @@ My name is Danh Tran. I'm an
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Danh1910&repo=laptop-store-personal-project)](https://github.com/Danh1910/FoodOrder-App)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Danh1910&repo=FoodOrder-App)](https://github.com/Danh1910/FoodOrder-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Danh1910&repo=QLThanhVienPro3)](https://github.com/Danh1910/QLThanhVienPro3)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Danh1910&repo=FoodOrder-App)](https://github.com/Danh1910/FoodOrder-App)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Danh1910&repo=FoodOrder-App)](https://github.com/Danh1910/FoodOrder-App)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Danh1910&repo=FoodOrder-App)](https://github.com/Danh1910/FoodOrder-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duyKhanh026&repo=HealthHub_J2EE)](https://github.com/duyKhanh026/HealthHub_J2EE)
 
