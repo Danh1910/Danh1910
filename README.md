@@ -4,8 +4,8 @@
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100009293056146) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danh-tr%E1%BA%A7n-a12784333/) 
 
-# 💻Tech Stack
-
+<h2 align="center"> Languages-Frameworks-Tools </h2>
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,cs,cpp,php,py,discord,androidstudio,idea,eclipse,apple,github,html,bootstrap,googlecloud,spring,firebase,mysql,sqlite,figma,css,gitlab,gmail,gradle,maven,notion,twitter,stackoverflow" />
 
