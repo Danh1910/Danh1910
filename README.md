@@ -13,7 +13,8 @@
 <h2 align="center"> 🛠️Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,cs,cpp,php,py,discord,androidstudio,idea,eclipse,apple,github,html,bootstrap,googlecloud,spring,firebase,mysql,sqlite,figma,css,gitlab,gmail,gradle,maven,notion,twitter,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,cs,cpp,php,py,discord,androidstudio,idea,eclipse,apple,github,html" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,googlecloud,spring,firebase,mysql,sqlite,figma,css,gitlab,gradle,maven,notion,stackoverflow" />
 
 </div>
 
