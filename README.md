@@ -4,7 +4,7 @@
 # WELCOME TO MY PAGE 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Danh+;+I'm+Mobile+Developer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Danh+;+I'm+Mobile+and+Web+Developer!;" />
 </h1>
 
 ## 🌐Socials
