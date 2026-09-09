@@ -138,7 +138,7 @@ focus:     internal systems & automation for print-on-demand e-commerce
 ## 📈 Activity
 
 <div align="center">
-  <img src="https://terminal-identity-opal.vercel.app/api?name=Xuan%20Danh&username=Danh1910&role=backend%20%26%20automation&tagline=I%20build%20tools%20that%20kill%20manual%20work&theme=prism/velvet&accent=%23A855F7&pattern=grid&motion=scan&showContribs=on&contribRange=1y&contribTheme=constellation&showLangs=on&langCount=5&langStyle=bar&barStyle=blocks&stats=repos&width=980" width="100%" alt="Xuan Danh - activity card: 1.7k contributions this year, 192 active days, top languages" />
+  <img src="https://terminal-identity-opal.vercel.app/api?name=Xuan%20Danh&username=Danh1910&role=backend%20%26%20automation&tagline=I%20build%20tools%20that%20kill%20manual%20work&theme=amber/matcha&pattern=grid&showContribs=on&contribTheme=capybara_onsen&contribRange=16w&contribMode=focus&showLangs=on&langCount=5&stats=repos&width=980" width="100%" alt="Xuan Danh - activity card: 1.3k contributions in the last 16 weeks, top languages" />
 </div>
 
 <br/>
