@@ -135,22 +135,6 @@ focus:     internal systems & automation for print-on-demand e-commerce
 
 <br/>
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danh1910/Danh1910/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danh1910/Danh1910/output/snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/Danh1910/Danh1910/output/snake-light.svg" width="100%" alt="Contribution snake animation" />
-  </picture>
-</div>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar" />
-</div>
-
-<br/>
-
 ## 🤝 Let's Connect
 
 <div align="center">
