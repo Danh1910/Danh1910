@@ -26,7 +26,7 @@ focus:     internal systems & automation for print-on-demand e-commerce
 ```
 
 - 🏢 &nbsp;**1+ year of professional experience** building internal systems and automation tools for a print-on-demand (POD) e-commerce team.
-- ⚙️ &nbsp;Day-to-day I ship **PHP/MySQL services running in Docker**, **Python workers** for long-running jobs, and **Chrome extensions** that sync order data between marketplaces and internal apps.
+- ⚙️ &nbsp;Day-to-day I ship **PHP/MySQL services running in Docker**, **Python workers** for long-running jobs, and **browser extensions** that move order data between marketplaces and internal apps.
 - 📊 &nbsp;Comfortable across the whole slice: database design and stored procedures → business logic → admin dashboards and BI reporting.
 - 🤖 &nbsp;I enjoy the unglamorous win: finding a manual, repeated task and turning it into a tool nobody has to think about again.
 - 📱 &nbsp;Background in mobile and desktop apps too — **Java/Spring**, **Flutter**, **Kotlin**, **C#**.
@@ -65,125 +65,73 @@ focus:     internal systems & automation for print-on-demand e-commerce
 
 <br/>
 
-## 🚀 Featured Projects
-
-### ⚡ Automation &amp; Tooling
+## 💼 What I've Built
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Danh1910/Tool-Auto-PTS">Tool-Auto-PTS</a></h4>
-      <p>Photoshop automation pipeline. JSX scripts drive configurable PSD export, while Python workers pull jobs off a Redis queue and push rendered artwork straight to Google Drive — turning a manual design-export loop into a background service.</p>
+      <h3>⚡ Automation &amp; Internal Tooling</h3>
+      <ul>
+        <li><b>Marketplace order-sync extensions</b> — Manifest V3 browser extensions that pull seller orders into an internal fulfillment system and write tracking numbers back, replacing a daily copy-paste routine for the operations team.</li>
+        <li><b>Design rendering pipeline</b> — turned a manual Photoshop export workflow into a background service: scripted PSD export driven by a job queue, with finished artwork delivered straight to cloud storage.</li>
+        <li><b>Bulk data-entry tooling</b> — Python tools that collapse an afternoon of repetitive product setup into a single run, containerized so anyone on the team can use them.</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/JSX-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Chrome%20MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Drive%20API-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Danh1910/Tool-Auto-Add-Customize-Item">Tool-Auto-Add-Customize-Item</a></h4>
-      <p>Python tool that automates bulk creation of customizable product items — the kind of repetitive data-entry flow that eats an afternoon. Containerized with Docker so it runs the same way on every machine.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Danh1910/chrome_extension_etsy_bkteam">Etsy Seller Helper</a> <sup>· Chrome Extension</sup></h4>
-      <p>Manifest V3 extension that syncs Etsy orders into the fulfillment app and writes tracking numbers back — including personalized orders that need manual mapping before they can ship.</p>
+      <h3>🗄️ Backend &amp; Data</h3>
+      <ul>
+        <li><b>Internal admin platform</b> — order management, multi-stage fulfillment tracking and operational reporting, built on PHP/MySQL and deployed with Docker behind Nginx.</li>
+        <li><b>BI &amp; reporting</b> — dashboards and alerting over growing order and advertising data: schema design, migrations, stored procedures and query tuning.</li>
+        <li><b>Integrations &amp; scheduled jobs</b> — marketplace APIs, webhooks, spreadsheet/cloud-storage automation, and background workers that keep everything in sync without anyone watching.</li>
+      </ul>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Chrome%20MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/Etsy-F1641E?style=flat-square&logo=etsy&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Danh1910/chrome_extention_tiktok_bkteam">TikTok Shop Helper</a> <sup>· Chrome Extension</sup></h4>
-      <p>The same idea for TikTok Shop Seller Center: one-click order sync, tracking upload and shipping-label creation, injected directly into the seller dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Chrome%20MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/TikTok%20Shop-000000?style=flat-square&logo=tiktok&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST%20API-6DB33F?style=flat-square&logo=fastapi&logoColor=white" />
       </p>
     </td>
   </tr>
-</table>
-
-### 🌐 Web &amp; Mobile
-
-<table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://danh-portfolio-xi.vercel.app/">Personal Portfolio</a> <sup>· <a href="https://github.com/Danh1910/Danh_portfolio">source</a></sup></h4>
-      <p>My portfolio site — React + Tailwind front end with a small Express backend behind the contact form, deployed on Vercel.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Danh1910/laptop-store-personal-project">Laptop Store</a></h4>
-      <p>Flutter app for a laptop retailer: customers browse and place orders, managers track and update store inventory — one codebase, two roles.</p>
+      <h3>🌐 Web &amp; Mobile</h3>
+      <ul>
+        <li><b>E-commerce mobile app</b> — Flutter application where customers browse and order products while staff manage inventory from the same codebase.</li>
+        <li><b>Food-ordering Android app</b> — menu browsing, checkout and delivery status tracking, built with Java.</li>
+        <li><b>Personal portfolio site</b> — React + Tailwind front end with a small Express backend, deployed on Vercel.</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Danh1910/FoodOrder-App">FoodOrder App</a></h4>
-      <p>Android food-ordering app — browse menus, place an order, and follow delivery status through to completion.</p>
-      <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/duyKhanh026/HealthHub_J2EE">HealthHub</a> <sup>· team project</sup></h4>
-      <p>Healthcare management web app built on Java EE — appointments, patient records and role-based admin screens.</p>
+      <h3>🧩 How I Work</h3>
+      <ul>
+        <li>Start from the actual bottleneck — the step someone repeats every day is usually worth more than the feature nobody asked for.</li>
+        <li>Write the documentation alongside the code, so the next person (often future me) does not have to reverse-engineer it.</li>
+        <li>Keep changes small and reversible; prefer a boring solution that the whole team can maintain.</li>
+        <li>Comfortable owning a feature end to end: database → API → admin UI → deployment.</li>
+      </ul>
       <p>
-        <img src="https://img.shields.io/badge/Java%20EE-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Code%20Review-181717?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Documentation-0A66C2?style=flat-square&logo=readthedocs&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
 
-<details>
-  <summary><b>📁 More projects</b></summary>
-  <br/>
-
-| Project | What it is | Stack |
-|---|---|---|
-| [CSharp_LaptopStore](https://github.com/trungkien2543/CSharp_LaptopStore) | Desktop laptop-store management app | C#, WinForms, SQL |
-| [KhoBanGhe](https://github.com/Danh1910/KhoBanGhe) | Inventory tracking for a table &amp; chair warehouse | C#, SQL |
-| [QLThanhVienPro3](https://github.com/Danh1910/QLThanhVienPro3) | Member management system | HTML, PHP |
-| [SuperGame-Python](https://github.com/Danh1910/SuperGame-Python) | Small game written while learning Python | Python |
-| [My_Profile](https://github.com/Danh1910/My_Profile) | My first personal page — where it all started | HTML, CSS |
-
-</details>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danh1910&theme=radical" alt="Profile summary" />
-</div>
-
-<div align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danh1910&theme=radical" alt="Languages by repository" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danh1910&theme=radical" alt="Languages by commit" />
-</div>
-
-> 💡 Most of my professional work lives in private company repositories, so these numbers tell only part of the story.
+> 💡 &nbsp;Most of my work lives in private company repositories, so this profile is a summary rather than a code archive. Happy to walk through the details in a conversation.
 
 <br/>
 
