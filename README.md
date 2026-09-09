@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:A855F7&height=200&section=header&text=Xuan%20Danh&fontSize=54&fontColor=FFFFFF&fontAlignY=34&desc=Full-stack%20Developer%20%7C%20Backend%20%26%20Automation&descSize=17&descAlignY=54&animation=fadeIn" width="100%" alt="header" />
+  <img src="./assets/header.svg" width="100%" alt="Xuan Danh - Full-stack Developer, Backend &amp; Automation" />
 </div>
 
 <div align="center">
@@ -158,4 +158,4 @@ focus:     internal systems & automation for print-on-demand e-commerce
   <a href="https://www.linkedin.com/in/danh-tr%E1%BA%A7n-a12784333/"><img src="https://img.shields.io/badge/Say%20hi%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:667EEA&height=120&section=footer" width="100%" alt="footer" />
+<img src="./assets/footer.svg" width="100%" alt="" />

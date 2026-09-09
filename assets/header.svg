@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Xuan Danh - Full-stack Developer, Backend and Automation">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#667EEA"/>
+      <stop offset="55%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#bg)"/>
+
+  <!-- lop song trang mo, tao hieu ung "waving" -->
+  <path d="M0,138 C140,178 280,102 420,138 C560,174 700,104 840,138 C980,172 1100,116 1200,142 L1200,200 L0,200 Z"
+        fill="#FFFFFF" opacity="0.10"/>
+  <path d="M0,158 C160,192 300,126 450,158 C600,190 760,130 900,158 C1040,186 1130,146 1200,162 L1200,200 L0,200 Z"
+        fill="#FFFFFF" opacity="0.14"/>
+
+  <text x="600" y="96"
+        text-anchor="middle"
+        font-family="Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif"
+        font-size="54" font-weight="700" fill="#FFFFFF" letter-spacing="1">Xuan Danh</text>
+
+  <text x="600" y="130"
+        text-anchor="middle"
+        font-family="Segoe UI, Ubuntu, Helvetica Neue, Arial, sans-serif"
+        font-size="17" font-weight="500" fill="#FFFFFF" opacity="0.88" letter-spacing="2.5">FULL-STACK DEVELOPER &#183; BACKEND &amp; AUTOMATION</text>
+</svg>

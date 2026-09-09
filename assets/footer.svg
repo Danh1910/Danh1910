@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="bgf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#667EEA"/>
+    </linearGradient>
+  </defs>
+
+  <!-- song o mep tren, phan duoi dac mau gradient -->
+  <path d="M0,42 C150,4 300,74 450,42 C600,10 760,72 900,42 C1030,14 1130,58 1200,36 L1200,120 L0,120 Z"
+        fill="url(#bgf)"/>
+  <path d="M0,62 C160,26 300,92 450,62 C600,32 770,90 900,62 C1040,36 1140,74 1200,58 L1200,120 L0,120 Z"
+        fill="#FFFFFF" opacity="0.12"/>
+</svg>

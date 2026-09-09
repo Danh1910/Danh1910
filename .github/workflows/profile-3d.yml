@@ -6,6 +6,13 @@ on:
     - cron: "10 18 * * *"
   # Cho phép bấm chạy tay ở tab Actions
   workflow_dispatch:
+  # Chạy luôn khi push. Commit do GITHUB_TOKEN tạo ra không kích hoạt
+  # workflow mới, nên không có vòng lặp; paths-ignore là lớp chặn thứ hai.
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "profile-3d-contrib/**"
 
 permissions:
   contents: write
