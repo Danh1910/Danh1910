@@ -1,14 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="footer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" width="1200" height="64" role="img" aria-label="footer">
   <defs>
-    <linearGradient id="bgf" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#A855F7"/>
-      <stop offset="100%" stop-color="#667EEA"/>
-    </linearGradient>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace; }
+    </style>
+    <clipPath id="frameF"><rect width="1200" height="64" rx="12"/></clipPath>
   </defs>
 
-  <!-- song o mep tren, phan duoi dac mau gradient -->
-  <path d="M0,42 C150,4 300,74 450,42 C600,10 760,72 900,42 C1030,14 1130,58 1200,36 L1200,120 L0,120 Z"
-        fill="url(#bgf)"/>
-  <path d="M0,62 C160,26 300,92 450,62 C600,32 770,90 900,62 C1040,36 1140,74 1200,58 L1200,120 L0,120 Z"
-        fill="#FFFFFF" opacity="0.12"/>
+  <!-- thanh trang thai kieu vim/tmux -->
+  <g clip-path="url(#frameF)" class="mono">
+    <rect width="1200" height="64" fill="#161B22"/>
+
+    <rect width="150" height="64" fill="#A855F7"/>
+    <path d="M150 0L172 32L150 64Z" fill="#A855F7"/>
+    <text x="75" y="38" text-anchor="middle" font-size="17" font-weight="700" fill="#0D1117" letter-spacing="1">NORMAL</text>
+
+    <text x="196" y="38" font-size="16"><tspan fill="#E6EDF3">README.md</tspan><tspan fill="#6E7681"> · thanks for scrolling</tspan></text>
+
+    <rect x="1070" width="130" height="64" fill="#22D3EE"/>
+    <path d="M1070 0L1048 32L1070 64Z" fill="#22D3EE"/>
+    <text x="1135" y="38" text-anchor="middle" font-size="17" font-weight="700" fill="#0D1117" letter-spacing="1">EOF</text>
+
+    <text x="1024" y="38" text-anchor="end" font-size="16"><tspan fill="#3FB950">● </tspan><tspan fill="#8B949E">open to new projects · utf-8</tspan></text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1199" height="63" rx="12" fill="none" stroke="#30363D"/>
 </svg>
