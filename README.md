@@ -29,6 +29,7 @@ focus:     internal systems & automation for print-on-demand e-commerce
 - ⚙️ &nbsp;Day-to-day I ship **PHP/MySQL services running in Docker**, **Python workers** for long-running jobs, and **browser extensions** that move order data between marketplaces and internal apps.
 - 📊 &nbsp;Comfortable across the whole slice: database design and stored procedures → business logic → admin dashboards and BI reporting.
 - 🤖 &nbsp;I enjoy the unglamorous win: finding a manual, repeated task and turning it into a tool nobody has to think about again.
+- 🚀 &nbsp;Most recently, took a **B2B website + billing platform** from an empty repository to **live production** on my own in about a week — see *Featured Project* below.
 - 📱 &nbsp;Background in mobile and desktop apps too — **Java/Spring**, **Flutter**, **Kotlin**, **C#**.
 - 🌱 &nbsp;Currently sharpening: system design, query performance tuning, and cleaner service boundaries.
 
@@ -39,7 +40,7 @@ focus:     internal systems & automation for print-on-demand e-commerce
 <table>
   <tr>
     <td align="right" width="170"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=php,python,java,spring,cs" alt="backend" /></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,python,java,spring,cs" alt="backend" /></td>
   </tr>
   <tr>
     <td align="right"><b>Frontend</b></td>
@@ -60,6 +61,40 @@ focus:     internal systems & automation for print-on-demand e-commerce
   <tr>
     <td align="right"><b>Tools</b></td>
     <td><img src="https://skillicons.dev/icons?i=postman,figma,ps,maven,gradle" alt="tools" /></td>
+  </tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Project
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>🧾 B2B service website &amp; billing platform — from empty repo to live customers</h3>
+      <p>
+        The biggest thing I have shipped so far. A US-based company providing e-commerce operations services needed a real company website and a way to bill its clients every month. I owned it end to end as the only developer — requirements, data model, admin panel, customer portal, email delivery and production deployment — and took it <b>from the first commit to a live production site in about a week</b>, open for customers to sign up and use.
+      </p>
+      <ul>
+        <li><b>Three surfaces, one codebase</b> — a bilingual (VI/EN) public website, a customer portal with a dashboard and invoice history, and an admin panel for customers, invoices, payment channels and service subscriptions.</li>
+        <li><b>Billing workflow</b> — invoice lifecycle <code>Draft → Sent → Pending verification → Paid / Rejected / Void</code>. Every status change is recorded, issued invoices are locked, and financial records are never deleted — only voided with a reason.</li>
+        <li><b>Invoice delivery</b> — issuing an invoice queues a job that emails the client with the PDF invoice attached, sent through Resend on a managed queue. The job is idempotent, so retries and at-least-once delivery never send the same invoice twice.</li>
+        <li><b>Security &amp; auditability</b> — per-customer data isolation enforced by authorization policies, click-wrap Terms of Service stored with timestamp and IP, login throttling, and login / activity / email logs for resolving disputes.</li>
+        <li><b>Production setup</b> — separate demo and production environments with isolated databases, branch-based auto-deploys, custom domain and DNS, SPF/DKIM-authenticated email, and UTC storage with local-time display.</li>
+        <li><b>Quality bar</b> — 190 automated tests and static analysis (PHPStan level 5) that run with one command, plus deployment runbooks and a code-reading guide for whoever maintains it next.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/PHP%208.5-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel%2013-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Filament-FDAE4B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL%208.4-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel%20Cloud-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" />
+      </p>
+    </td>
   </tr>
 </table>
 
