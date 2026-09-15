@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=620&height=45&lines=Full-stack+Developer+with+1%2B+year+of+experience;Backend+%26+Automation+Engineer;PHP+%C2%B7+Python+%C2%B7+JavaScript+%C2%B7+Java;I+build+tools+that+kill+manual+work" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=620&height=45&lines=Full-stack+Developer+with+1%2B+year+of+experience;Backend+%26+Automation+Engineer;PHP+%C2%B7+MySQL+%C2%B7+Python+%C2%B7+JavaScript;Orders,+designs+%26+integrations+for+POD;I+build+tools+that+kill+manual+work" alt="typing" />
 </div>
 
 <div align="center">
@@ -22,47 +22,47 @@
 name:      Xuan Danh (Danh Tran)
 role:      Full-stack Developer — leaning Backend & Automation
 based_in:  Ho Chi Minh City, Vietnam
-focus:     internal systems & automation for print-on-demand e-commerce
+focus:     web back offices, APIs & automation for print-on-demand e-commerce
 ```
 
-- 🏢 &nbsp;**1+ year of professional experience** building internal systems and automation tools for a print-on-demand (POD) e-commerce team.
-- ⚙️ &nbsp;Day-to-day I ship **PHP/MySQL services running in Docker**, **Python workers** for long-running jobs, and **browser extensions** that move order data between marketplaces and internal apps.
+- 🏢 &nbsp;**1+ year of professional experience** building and running the web back office of a print-on-demand (POD) e-commerce team.
+- 🗂️ &nbsp;Day-to-day I **maintain and extend a large PHP/MySQL system** (hundreds of admin pages and database tables, 1,200+ of my own commits) that runs orders, customers, designs, product customization and fulfillment across several marketplaces.
+- 🔌 &nbsp;A big part of the job is the glue: **marketplace and supplier APIs, webhooks, CRON-driven jobs** and browser extensions that keep orders, tracking and designs in sync without anyone watching.
 - 📊 &nbsp;Comfortable across the whole slice: database design and stored procedures → business logic → admin dashboards and BI reporting.
 - 🤖 &nbsp;I enjoy the unglamorous win: finding a manual, repeated task and turning it into a tool nobody has to think about again.
 - 🚀 &nbsp;Most recently, took a **B2B website + billing platform** from an empty repository to **live production** on my own in about a week — see *Featured Project* below.
-- 📱 &nbsp;Background in mobile and desktop apps too — **Java/Spring**, **Flutter**, **Kotlin**, **C#**.
 - 🌱 &nbsp;Currently sharpening: system design, query performance tuning, and cleaner service boundaries.
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🎯 What I Can Build for You
 
 <table>
   <tr>
-    <td align="right" width="170"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=php,laravel,python,java,spring,cs" alt="backend" /></td>
+    <td width="50%" valign="top">
+      <h4>🗂️ E-commerce back offices</h4>
+      Orders, customers, designs and product customization in one place — with roles for each team (sellers, designers, fulfillment), dashboards and reports.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔌 Integrations &amp; scheduled jobs</h4>
+      Connecting marketplaces, suppliers and internal tools through APIs and webhooks, plus CRON jobs and alerts that run on their own — syncs, deadlines, missing tracking.
+    </td>
   </tr>
   <tr>
-    <td align="right"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,html,css" alt="frontend" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" alt="mobile" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Data &amp; Cache</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,firebase" alt="data" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>DevOps &amp; Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,nginx,gcp,git,github,gitlab" alt="devops" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postman,figma,ps,maven,gradle" alt="tools" /></td>
+    <td width="50%" valign="top">
+      <h4>⚡ Automation &amp; browser extensions</h4>
+      Extensions that work inside seller dashboards, and background pipelines that turn hours of repetitive design or data-entry work into a single click.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Customer portals, live on the web</h4>
+      Sign-up, invoices with PDF and email delivery, payment tracking — built and taken all the way to production: hosting, domain, email and safe deployments.
+    </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/danh-tr%E1%BA%A7n-a12784333/"><img src="https://img.shields.io/badge/Have%20a%20project%20in%20mind%3F%20Let%27s%20talk-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="Have a project in mind? Let's talk" /></a>
+</div>
 
 <br/>
 
@@ -100,53 +100,84 @@ focus:     internal systems & automation for print-on-demand e-commerce
 
 <br/>
 
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td align="right" width="170"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,python,flask" alt="backend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,jquery,tailwind,bootstrap,react,html,css" alt="frontend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Data &amp; Queues</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,redis,sqlite" alt="data" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab" alt="devops" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postman,ps,figma" alt="tools" /></td>
+  </tr>
+</table>
+
+<br/>
+
 ## 💼 What I've Built
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Automation &amp; Internal Tooling</h3>
+      <h3>🗄️ POD Back Office</h3>
       <ul>
-        <li><b>Marketplace order-sync extensions</b> — Manifest V3 browser extensions that pull seller orders into an internal fulfillment system and write tracking numbers back, replacing a daily copy-paste routine for the operations team.</li>
-        <li><b>Design rendering pipeline</b> — turned a manual Photoshop export workflow into a background service: scripted PSD export driven by a job queue, with finished artwork delivered straight to cloud storage.</li>
-        <li><b>Bulk data-entry tooling</b> — Python tools that collapse an afternoon of repetitive product setup into a single run, containerized so anyone on the team can use them.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Chrome%20MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗄️ Backend &amp; Data</h3>
-      <ul>
-        <li><b>Internal admin platform</b> — order management, multi-stage fulfillment tracking and operational reporting, built on PHP/MySQL and deployed with Docker behind Nginx.</li>
-        <li><b>BI &amp; reporting</b> — dashboards and alerting over growing order and advertising data: schema design, migrations, stored procedures and query tuning.</li>
-        <li><b>Integrations &amp; scheduled jobs</b> — marketplace APIs, webhooks, spreadsheet/cloud-storage automation, and background workers that keep everything in sync without anyone watching.</li>
+        <li><b>Orders &amp; fulfillment</b> — per-marketplace order screens, order imports, supplier exports, and a tracking audit that flags orders whose tracking is missing or does not match.</li>
+        <li><b>Design team workflow</b> — design requests, rule-based automatic assignment of designers by type of work, design rules per SKU, and KPI dashboards for the design team.</li>
+        <li><b>Product customization</b> — decoding customers' personalization data from storefront orders so production gets exactly the right text and images.</li>
+        <li><b>Earnings &amp; reporting</b> — pulling fee data from fulfillment webhooks into earnings totals, plus dashboards over orders and advertising data.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
         <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔌 APIs, Webhooks &amp; CRON</h3>
+      <ul>
+        <li><b>Marketplace &amp; supplier integrations</b> — storefront APIs and webhooks, fulfillment-partner webhooks for order status, tracking and fees, and a tracking service that keeps shipments up to date.</li>
+        <li><b>Database-driven CRON scheduler</b> — jobs defined in the database and launched by a dispatcher, each in its own process: SLA and ship-by alerts, missing-tracking deadlines, automatic designer assignment.</li>
+        <li><b>Message &amp; email pipelines</b> — pulling marketplace buyer messages and email threads into the internal system so the team answers from one place.</li>
+        <li><b>Internal APIs</b> — the endpoints that browser extensions and tools call to sync orders, tracking, reports and listings.</li>
+      </ul>
+      <p>
         <img src="https://img.shields.io/badge/REST%20API-6DB33F?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Webhooks-181717?style=flat-square&logo=webauthn&logoColor=white" />
+        <img src="https://img.shields.io/badge/CRON-4B5563?style=flat-square&logo=clockify&logoColor=white" />
+        <img src="https://img.shields.io/badge/Shopify%20GraphQL-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Web &amp; Mobile</h3>
+      <h3>⚡ Automation &amp; Tooling</h3>
       <ul>
-        <li><b>E-commerce mobile app</b> — Flutter application where customers browse and order products while staff manage inventory from the same codebase.</li>
-        <li><b>Food-ordering Android app</b> — menu browsing, checkout and delivery status tracking, built with Java.</li>
-        <li><b>Personal portfolio site</b> — React + Tailwind front end with a small Express backend, deployed on Vercel.</li>
+        <li><b>Seller-dashboard browser extension</b> — Manifest V3 extension that syncs orders across paginated lists, fills in tracking numbers, pulls account-health, payment and brand-analytics reports, and runs jobs queued from the internal dashboard — only while nobody is using the browser.</li>
+        <li><b>Personalized design rendering pipeline</b> — a Flask API with Redis/RQ queues that drives Photoshop and Illustrator templates: swaps text (per-character colors, warped arcs), drops in customer photos with face-aware cropping, background removal and AI upscaling, then uploads print files to Google Drive and reports status back.</li>
+        <li><b>Bulk data-entry tooling</b> — Python tools that collapse an afternoon of repetitive product setup into a single run.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis%20%2F%20RQ-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Chrome%20MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Photoshop%20scripting-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
