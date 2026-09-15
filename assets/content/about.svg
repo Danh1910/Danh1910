@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 697" width="1200" height="697" role="img" aria-label="About me: Full-stack Developer (Backend &amp; Automation) in Ho Chi Minh City — 1+ year building a PHP/MySQL back office, integrations and automation for POD e-commerce.">
+  <defs>
+    <style>
+      .m { font-family: 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace; }
+      .s { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+      .blink { animation: blink 1.1s steps(1, end) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+    <linearGradient id="cardFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141A22"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A855F7" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#A855F7" stop-opacity="0.9"/>
+      <stop offset="0.7" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0 1L9 5L0 9z" fill="#6E7681"/>
+    </marker>
+  </defs>
+<rect x="1" y="1" width="1198" height="262" rx="18" fill="url(#cardFill)" stroke="#30363D"/>
+<rect x="31" y="0.3" width="1138" height="1.5" fill="url(#edge)"/>
+<circle cx="27" cy="24" r="6.5" fill="#FF5F57"/>
+<circle cx="49" cy="24" r="6.5" fill="#FEBC2E"/>
+<circle cx="71" cy="24" r="6.5" fill="#28C840"/>
+<text class="m" x="105" y="29" font-size="15" fill="#8B949E">~/profile.yml</text>
+<text class="m" x="1173" y="29" font-size="14" fill="#6E7681" text-anchor="end">yaml</text>
+<path d="M1 47.5H1199" stroke="#21262D"/>
+<text class="m" x="53" y="89" font-size="16" fill="#6E7681" text-anchor="end">1</text>
+<text class="m" x="81" y="89" font-size="19" fill="#C084FC">name:</text>
+<text class="m" x="195" y="89" font-size="19" fill="#F0F6FC">Xuan Danh (Danh Tran)</text>
+<text class="m" x="53" y="125" font-size="16" fill="#6E7681" text-anchor="end">2</text>
+<text class="m" x="81" y="125" font-size="19" fill="#C084FC">role:</text>
+<text class="m" x="195" y="125" font-size="19" fill="#F0F6FC">Full-stack Developer — Backend &amp; Automation</text>
+<text class="m" x="53" y="161" font-size="16" fill="#6E7681" text-anchor="end">3</text>
+<text class="m" x="81" y="161" font-size="19" fill="#C084FC">based_in:</text>
+<text class="m" x="195" y="161" font-size="19" fill="#F0F6FC">Ho Chi Minh City, Vietnam</text>
+<text class="m" x="53" y="197" font-size="16" fill="#6E7681" text-anchor="end">4</text>
+<text class="m" x="81" y="197" font-size="19" fill="#C084FC">focus:</text>
+<text class="m" x="195" y="197" font-size="19" fill="#F0F6FC">back offices · APIs · automation for POD</text>
+<text class="m" x="53" y="233" font-size="16" fill="#6E7681" text-anchor="end">5</text>
+<rect class="blink" x="81" y="216" width="11" height="22" fill="#A855F7"/>
+<rect x="815" y="66" width="172" height="82" rx="12" fill="#151B23" stroke="#30363D"/>
+<text class="m" x="833" y="106" font-size="28" fill="#C084FC" font-weight="700">1+ yr</text>
+<text class="m" x="833" y="130" font-size="14" fill="#8B949E">experience</text>
+<rect x="1001" y="66" width="172" height="82" rx="12" fill="#151B23" stroke="#30363D"/>
+<text class="m" x="1019" y="106" font-size="28" fill="#22D3EE" font-weight="700">1,200+</text>
+<text class="m" x="1019" y="130" font-size="14" fill="#8B949E">own commits</text>
+<rect x="815" y="162" width="172" height="82" rx="12" fill="#151B23" stroke="#30363D"/>
+<text class="m" x="833" y="202" font-size="28" fill="#3FB950" font-weight="700">100s</text>
+<text class="m" x="833" y="226" font-size="14" fill="#8B949E">pages &amp; tables</text>
+<rect x="1001" y="162" width="172" height="82" rx="12" fill="#151B23" stroke="#30363D"/>
+<text class="m" x="1019" y="202" font-size="28" fill="#C084FC" font-weight="700">~1 wk</text>
+<text class="m" x="1019" y="226" font-size="14" fill="#8B949E">repo → prod</text>
+<rect x="1" y="283" width="1198" height="413" rx="18" fill="url(#cardFill)" stroke="#30363D"/>
+<rect x="31" y="282.3" width="1138" height="1.5" fill="url(#edge)"/>
+<rect x="27" y="311" width="150" height="30" rx="15" fill="#A855F7" fill-opacity="0.12" stroke="#A855F7" stroke-opacity="0.5"/><text class="m" x="102" y="330.9" font-size="14" fill="#A855F7" text-anchor="middle">day-to-day</text>
+<text class="s" x="205" y="331" font-size="19" fill="#9DA7B3"><tspan fill="#F0F6FC" font-weight="600">Maintain and extend a large PHP/MySQL back office</tspan> — orders, customers, designs, customization and</text>
+<text class="s" x="205" y="362" font-size="19" fill="#9DA7B3">fulfillment across several marketplaces.</text>
+<path d="M27 389.5H1173" stroke="#21262D"/>
+<rect x="27" y="409" width="150" height="30" rx="15" fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.5"/><text class="m" x="102" y="428.9" font-size="14" fill="#22D3EE" text-anchor="middle">integrations</text>
+<text class="s" x="205" y="429" font-size="19" fill="#9DA7B3"><tspan fill="#F0F6FC" font-weight="600">Marketplace &amp; supplier APIs, webhooks, CRON jobs</tspan> and browser extensions that keep orders, tracking</text>
+<text class="s" x="205" y="460" font-size="19" fill="#9DA7B3">and designs in sync.</text>
+<path d="M27 487.5H1173" stroke="#21262D"/>
+<rect x="27" y="507" width="150" height="30" rx="15" fill="#A855F7" fill-opacity="0.12" stroke="#A855F7" stroke-opacity="0.5"/><text class="m" x="102" y="526.9" font-size="14" fill="#A855F7" text-anchor="middle">full-slice</text>
+<text class="s" x="205" y="527" font-size="19" fill="#9DA7B3">Database design &amp; stored procedures → business logic →<tspan fill="#F0F6FC" font-weight="600"> admin dashboards &amp; BI reporting</tspan>.</text>
+<path d="M27 554.5H1173" stroke="#21262D"/>
+<rect x="27" y="574" width="150" height="30" rx="15" fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.5"/><text class="m" x="102" y="593.9" font-size="14" fill="#22D3EE" text-anchor="middle">automation</text>
+<text class="s" x="205" y="594" font-size="19" fill="#9DA7B3">Find the manual, repeated task —<tspan fill="#F0F6FC" font-weight="600"> turn it into a tool nobody has to think about again</tspan>.</text>
+<path d="M27 621.5H1173" stroke="#21262D"/>
+<rect x="27" y="641" width="150" height="30" rx="15" fill="#A855F7" fill-opacity="0.12" stroke="#A855F7" stroke-opacity="0.5"/><text class="m" x="102" y="660.9" font-size="14" fill="#A855F7" text-anchor="middle">learning</text>
+<text class="s" x="205" y="661" font-size="19" fill="#9DA7B3">System design · query performance tuning · cleaner service boundaries.</text>
+</svg>

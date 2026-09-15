@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 1038" width="1200" height="1038" role="img" aria-label="Featured project: B2B website &amp; billing platform — built solo from empty repo to production in about a week; 190 tests, PHPStan level 5; Laravel, Filament, MySQL, Resend.">
+  <defs>
+    <style>
+      .m { font-family: 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace; }
+      .s { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+      .blink { animation: blink 1.1s steps(1, end) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+    <linearGradient id="cardFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141A22"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A855F7" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#A855F7" stop-opacity="0.9"/>
+      <stop offset="0.7" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0 1L9 5L0 9z" fill="#6E7681"/>
+    </marker>
+  </defs>
+<rect x="1" y="1" width="1198" height="1036" rx="18" fill="url(#cardFill)" stroke="#30363D"/>
+<rect x="31" y="0.3" width="1138" height="1.5" fill="url(#edge)"/>
+<text class="m" x="41" y="53" font-size="15" fill="#C084FC" letter-spacing="1">// featured project</text>
+<rect x="965.8" y="33" width="193.2" height="30" rx="15" fill="#3FB950" fill-opacity="0.12" stroke="#3FB950" stroke-opacity="0.5"/><circle cx="982.8" cy="48" r="4" fill="#3FB950"/><text class="m" x="994.8" y="52.9" font-size="14" fill="#3FB950">live in production</text>
+<text class="m" x="41" y="109" font-size="36" fill="#F0F6FC" font-weight="700">B2B Website &amp; Billing Platform</text>
+<text class="s" x="41" y="149" font-size="20" fill="#9DA7B3">A company website plus<tspan fill="#F0F6FC" font-weight="600"> monthly client billing</tspan> for a US-based e-commerce operations company — built solo,<tspan fill="#F0F6FC" font-weight="600"> from</tspan></text>
+<text class="s" x="41" y="181" font-size="20" fill="#9DA7B3"><tspan fill="#F0F6FC" font-weight="600">an empty repo to live customers in about a week</tspan>.</text>
+<rect x="41" y="215" width="210.8" height="96" rx="14" fill="#151B23" stroke="#30363D"/>
+<text class="m" x="61" y="251" font-size="14" fill="#8B949E">role</text>
+<text class="m" x="61" y="289" font-size="24" fill="#C084FC" font-weight="700">solo dev</text>
+<rect x="267.8" y="215" width="210.8" height="96" rx="14" fill="#151B23" stroke="#30363D"/>
+<text class="m" x="287.8" y="251" font-size="14" fill="#8B949E">repo → production</text>
+<text class="m" x="287.8" y="289" font-size="24" fill="#22D3EE" font-weight="700">~1 week</text>
+<rect x="494.6" y="215" width="210.8" height="96" rx="14" fill="#151B23" stroke="#30363D"/>
+<text class="m" x="514.6" y="251" font-size="14" fill="#8B949E">tests</text>
+<text class="m" x="514.6" y="289" font-size="24" fill="#3FB950" font-weight="700">190 passing</text>
+<rect x="721.4" y="215" width="210.8" height="96" rx="14" fill="#151B23" stroke="#30363D"/>
+<text class="m" x="741.4" y="251" font-size="14" fill="#8B949E">static analysis</text>
+<text class="m" x="741.4" y="289" font-size="24" fill="#C084FC" font-weight="700">PHPStan L5</text>
+<rect x="948.2" y="215" width="210.8" height="96" rx="14" fill="#151B23" stroke="#30363D"/>
+<text class="m" x="968.2" y="251" font-size="14" fill="#8B949E">languages</text>
+<text class="m" x="968.2" y="289" font-size="24" fill="#22D3EE" font-weight="700">VI · EN</text>
+<rect x="41" y="331" width="362" height="180" rx="14" fill="#151B23" stroke="#30363D"/>
+<text class="m" x="65" y="367" font-size="13" fill="#C084FC" letter-spacing="0.5">surfaces</text>
+<text class="s" x="65" y="397" font-size="20" fill="#F0F6FC" font-weight="600">3 surfaces, 1 codebase</text>
+<text class="m" x="65" y="431" font-size="18" fill="#C084FC" font-weight="700">›</text>
+<text class="s" x="85" y="431" font-size="17" fill="#9DA7B3">Public website (VI / EN)</text>
+<text class="m" x="65" y="458" font-size="18" fill="#C084FC" font-weight="700">›</text>
+<text class="s" x="85" y="458" font-size="17" fill="#9DA7B3">Customer portal &amp; invoice history</text>
+<text class="m" x="65" y="485" font-size="18" fill="#C084FC" font-weight="700">›</text>
+<text class="s" x="85" y="485" font-size="17" fill="#9DA7B3">Admin panel &amp; subscriptions</text>
+<rect x="419" y="331" width="362" height="180" rx="14" fill="#151B23" stroke="#30363D"/>
+<text class="m" x="443" y="367" font-size="13" fill="#22D3EE" letter-spacing="0.5">billing</text>
+<text class="s" x="443" y="397" font-size="20" fill="#F0F6FC" font-weight="600">Billing workflow</text>
+<text class="m" x="443" y="431" font-size="18" fill="#22D3EE" font-weight="700">›</text>
+<text class="s" x="463" y="431" font-size="17" fill="#9DA7B3">Every status change recorded</text>
+<text class="m" x="443" y="458" font-size="18" fill="#22D3EE" font-weight="700">›</text>
+<text class="s" x="463" y="458" font-size="17" fill="#9DA7B3">Issued invoices are locked</text>
+<text class="m" x="443" y="485" font-size="18" fill="#22D3EE" font-weight="700">›</text>
+<text class="s" x="463" y="485" font-size="17" fill="#9DA7B3">Voided with a reason, never deleted</text>
+<rect x="797" y="331" width="362" height="180" rx="14" fill="#151B23" stroke="#30363D"/>
+<text class="m" x="821" y="367" font-size="13" fill="#3FB950" letter-spacing="0.5">delivery</text>
+<text class="s" x="821" y="397" font-size="20" fill="#F0F6FC" font-weight="600">Invoice delivery</text>
+<text class="m" x="821" y="431" font-size="18" fill="#3FB950" font-weight="700">›</text>
+<text class="s" x="841" y="431" font-size="17" fill="#9DA7B3">PDF invoice emailed via Resend</text>
+<text class="m" x="821" y="458" font-size="18" fill="#3FB950" font-weight="700">›</text>
+<text class="s" x="841" y="458" font-size="17" fill="#9DA7B3">Sent from a managed queue</text>
+<text class="m" x="821" y="485" font-size="18" fill="#3FB950" font-weight="700">›</text>
+<text class="s" x="841" y="485" font-size="17" fill="#9DA7B3">Idempotent — never sent twice</text>
+<rect x="41" y="527" width="362" height="180" rx="14" fill="#151B23" stroke="#30363D"/>
+<text class="m" x="65" y="563" font-size="13" fill="#C084FC" letter-spacing="0.5">security</text>
+<text class="s" x="65" y="593" font-size="20" fill="#F0F6FC" font-weight="600">Security &amp; audit</text>
+<text class="m" x="65" y="627" font-size="18" fill="#C084FC" font-weight="700">›</text>
+<text class="s" x="85" y="627" font-size="17" fill="#9DA7B3">Per-customer data isolation</text>
+<text class="m" x="65" y="654" font-size="18" fill="#C084FC" font-weight="700">›</text>
+<text class="s" x="85" y="654" font-size="17" fill="#9DA7B3">Click-wrap ToS with time &amp; IP</text>
+<text class="m" x="65" y="681" font-size="18" fill="#C084FC" font-weight="700">›</text>
+<text class="s" x="85" y="681" font-size="17" fill="#9DA7B3">Login throttling, activity &amp; email logs</text>
+<rect x="419" y="527" width="362" height="180" rx="14" fill="#151B23" stroke="#30363D"/>
+<text class="m" x="443" y="563" font-size="13" fill="#22D3EE" letter-spacing="0.5">infra</text>
+<text class="s" x="443" y="593" font-size="20" fill="#F0F6FC" font-weight="600">Production setup</text>
+<text class="m" x="443" y="627" font-size="18" fill="#22D3EE" font-weight="700">›</text>
+<text class="s" x="463" y="627" font-size="17" fill="#9DA7B3">Isolated demo &amp; prod databases</text>
+<text class="m" x="443" y="654" font-size="18" fill="#22D3EE" font-weight="700">›</text>
+<text class="s" x="463" y="654" font-size="17" fill="#9DA7B3">Branch-based auto-deploys</text>
+<text class="m" x="443" y="681" font-size="18" fill="#22D3EE" font-weight="700">›</text>
+<text class="s" x="463" y="681" font-size="17" fill="#9DA7B3">Custom domain, SPF / DKIM email</text>
+<rect x="797" y="527" width="362" height="180" rx="14" fill="#151B23" stroke="#30363D"/>
+<text class="m" x="821" y="563" font-size="13" fill="#3FB950" letter-spacing="0.5">quality</text>
+<text class="s" x="821" y="593" font-size="20" fill="#F0F6FC" font-weight="600">Quality bar</text>
+<text class="m" x="821" y="627" font-size="18" fill="#3FB950" font-weight="700">›</text>
+<text class="s" x="841" y="627" font-size="17" fill="#9DA7B3">190 automated tests</text>
+<text class="m" x="821" y="654" font-size="18" fill="#3FB950" font-weight="700">›</text>
+<text class="s" x="841" y="654" font-size="17" fill="#9DA7B3">PHPStan level 5, one command</text>
+<text class="m" x="821" y="681" font-size="18" fill="#3FB950" font-weight="700">›</text>
+<text class="s" x="841" y="681" font-size="17" fill="#9DA7B3">Runbooks &amp; code-reading guide</text>
+<rect x="41" y="727" width="1118" height="214" rx="14" fill="#151B23" stroke="#30363D"/>
+<text class="m" x="65" y="763" font-size="14" fill="#8B949E">// invoice lifecycle</text>
+<g fill="none" stroke="#6E7681" stroke-width="1.6"><path d="M270.8 846H336.8" marker-end="url(#arrow)"/><path d="M437.2 846H503.2" marker-end="url(#arrow)"/><path d="M757.2 846C827.2 846 812.2 794 879.2 794" marker-end="url(#arrow)"/><path d="M757.2 846H879.2" marker-end="url(#arrow)"/><path d="M757.2 846C827.2 846 812.2 898 879.2 898" marker-end="url(#arrow)"/></g>
+<circle r="4.5" fill="#22D3EE"><animateMotion dur="3.2s" repeatCount="indefinite" path="M216.8 846H757.2C827.2 846 812.2 794 879.2 794H959.2"/></circle>
+<rect x="170.8" y="827" width="92" height="38" rx="19" fill="#0D1117"/><rect x="170.8" y="827" width="92" height="38" rx="19" fill="#8B949E" fill-opacity="0.12" stroke="#8B949E" stroke-opacity="0.5"/><text class="m" x="216.8" y="851.6" font-size="16" fill="#8B949E" text-anchor="middle">Draft</text>
+<rect x="346.8" y="827" width="82.4" height="38" rx="19" fill="#0D1117"/><rect x="346.8" y="827" width="82.4" height="38" rx="19" fill="#58A6FF" fill-opacity="0.12" stroke="#58A6FF" stroke-opacity="0.5"/><text class="m" x="388" y="851.6" font-size="16" fill="#58A6FF" text-anchor="middle">Sent</text>
+<rect x="513.2" y="827" width="236" height="38" rx="19" fill="#0D1117"/><rect x="513.2" y="827" width="236" height="38" rx="19" fill="#D29922" fill-opacity="0.12" stroke="#D29922" stroke-opacity="0.5"/><text class="m" x="631.2" y="851.6" font-size="16" fill="#D29922" text-anchor="middle">Pending verification</text>
+<rect x="889.2" y="775" width="140" height="38" rx="19" fill="#0D1117"/><rect x="889.2" y="775" width="140" height="38" rx="19" fill="#3FB950" fill-opacity="0.12" stroke="#3FB950" stroke-opacity="0.5"/><text class="m" x="959.2" y="799.6" font-size="16" fill="#3FB950" text-anchor="middle">Paid</text>
+<rect x="889.2" y="827" width="140" height="38" rx="19" fill="#0D1117"/><rect x="889.2" y="827" width="140" height="38" rx="19" fill="#F85149" fill-opacity="0.12" stroke="#F85149" stroke-opacity="0.5"/><text class="m" x="959.2" y="851.6" font-size="16" fill="#F85149" text-anchor="middle">Rejected</text>
+<rect x="889.2" y="879" width="140" height="38" rx="19" fill="#0D1117"/><rect x="889.2" y="879" width="140" height="38" rx="19" fill="#6E7681" fill-opacity="0.12" stroke="#6E7681" stroke-opacity="0.5"/><text class="m" x="959.2" y="903.6" font-size="16" fill="#6E7681" text-anchor="middle">Void</text>
+<rect x="41" y="965" width="100.8" height="32" rx="16" fill="#151B23" stroke="#30363D"/><circle cx="57" cy="981" r="5" fill="#8892BF"/><text class="m" x="69" y="985.9" font-size="14" fill="#C9D1D9">PHP 8.5</text>
+<rect x="149.8" y="965" width="126" height="32" rx="16" fill="#151B23" stroke="#30363D"/><circle cx="165.8" cy="981" r="5" fill="#FF2D20"/><text class="m" x="177.8" y="985.9" font-size="14" fill="#C9D1D9">Laravel 13</text>
+<rect x="283.8" y="965" width="109.2" height="32" rx="16" fill="#151B23" stroke="#30363D"/><circle cx="299.8" cy="981" r="5" fill="#FDAE4B"/><text class="m" x="311.8" y="985.9" font-size="14" fill="#C9D1D9">Filament</text>
+<rect x="401" y="965" width="134.4" height="32" rx="16" fill="#151B23" stroke="#30363D"/><circle cx="417" cy="981" r="5" fill="#38BDF8"/><text class="m" x="429" y="985.9" font-size="14" fill="#C9D1D9">Tailwind v4</text>
+<rect x="543.4" y="965" width="117.6" height="32" rx="16" fill="#151B23" stroke="#30363D"/><circle cx="559.4" cy="981" r="5" fill="#8BC0D0"/><text class="m" x="571.4" y="985.9" font-size="14" fill="#C9D1D9">Alpine.js</text>
+<rect x="669" y="965" width="117.6" height="32" rx="16" fill="#151B23" stroke="#30363D"/><circle cx="685" cy="981" r="5" fill="#5FA8E0"/><text class="m" x="697" y="985.9" font-size="14" fill="#C9D1D9">MySQL 8.4</text>
+<rect x="794.6" y="965" width="92.4" height="32" rx="16" fill="#151B23" stroke="#30363D"/><circle cx="810.6" cy="981" r="5" fill="#2496ED"/><text class="m" x="822.6" y="985.9" font-size="14" fill="#C9D1D9">Docker</text>
+<rect x="895" y="965" width="151.2" height="32" rx="16" fill="#151B23" stroke="#30363D"/><circle cx="911" cy="981" r="5" fill="#FF2D20"/><text class="m" x="923" y="985.9" font-size="14" fill="#C9D1D9">Laravel Cloud</text>
+<rect x="1054.2" y="965" width="92.4" height="32" rx="16" fill="#151B23" stroke="#30363D"/><circle cx="1070.2" cy="981" r="5" fill="#F0F6FC"/><text class="m" x="1082.2" y="985.9" font-size="14" fill="#C9D1D9">Resend</text>
+</svg>
